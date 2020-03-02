@@ -1,5 +1,4 @@
-![alt text](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/images/logo-sl_small.png)
-# A smooth path to Semantics Lab
+# A smooth path to Deep Learning
 
 ### 1 - Basic python [ Structure + OOP]
  - [Python3 Intro](https://github.com/lab-semantics/Deep-Learning-Guide/tree/master/Python3)
