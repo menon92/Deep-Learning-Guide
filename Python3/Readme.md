@@ -7,26 +7,26 @@
   - Flow Control
   - Loop
   - Functions and Return Multiple Value
-- [`Part - 1`](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Python3/python3_intro_part_1.ipynb)
+- [`Part - 1`](https://github.com/menon92/Deep-Learning-Guide/blob/master/Python3/python3_intro_part_1.ipynb)
   - List 
   - None Type
   - Dictionary
   - Tuple
   - Set
-- [`Part - 2`](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Python3/python3_intro_part_2.ipynb)
+- [`Part - 2`](https://github.com/menon92/Deep-Learning-Guide/blob/master/Python3/python3_intro_part_2.ipynb)
   - List Comprehension
   - Dictionary Comprehension
-- [`Part - 3`](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Python3/python3_intro_part_3.ipynb)
+- [`Part - 3`](https://github.com/menon92/Deep-Learning-Guide/blob/master/Python3/python3_intro_part_3.ipynb)
   - Iterators
   - Generatores
-- [`Part - 4`](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Python3/python3_intro_part_4.ipynb)
+- [`Part - 4`](https://github.com/menon92/Deep-Learning-Guide/blob/master/Python3/python3_intro_part_4.ipynb)
   - File I/O 
   - `os`, `walk`, `shutil`, `glob`
-- [`Part - 5`](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Python3/python3_intro_part_5_%5BOOP%5D.ipynb)
+- [`Part - 5`](https://github.com/menon92/Deep-Learning-Guide/blob/master/Python3/python3_intro_part_5_%5BOOP%5D.ipynb)
   - Class & Objet
   - Inheritence
   - Magic Method
-- [`Part - 6`](https://github.com/lab-semantics/Deep-Learning-Guide/blob/master/Python3/python3_intro_part_6.ipynb)
+- [`Part - 6`](https://github.com/menon92/Deep-Learning-Guide/blob/master/Python3/python3_intro_part_6.ipynb)
   - Python Module Vs Package 
   
 #### References
