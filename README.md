@@ -44,3 +44,6 @@
 - [Deep_Learning_by_Ian_Goodfellow](https://github.com/menon92/Deep-Learning-Guide/blob/master/Books/Deep_Learning_by_Ian_Goodfellow.pdf)
 - [Python Cookbook](https://github.com/menon92/Deep-Learning-Guide/blob/master/Books/Python_Cookbook_3rd%20Edition.pdf)
 - [Automate The Boring Stuff With Python](https://github.com/menon92/Deep-Learning-Guide/blob/master/Books/automate_the_boring_stuff_with_python.pdf)
+
+### 11 - Courses
+- [Kaggle Micro Courses](https://github.com/faruk-ahmad/Deep-Learning-Guide/blob/master/courses/kaggle-microcourses.md)
