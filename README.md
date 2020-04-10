@@ -51,4 +51,4 @@
 ### 12 - GPU configure and troubleshoot
 - [Check CUDA compatibility with linux nvidia driver version](https://docs.nvidia.com/deploy/cuda-compatibility/index.html)
 - [Tensorflwo vs Python vs cuDNN vs CUDA compatibility](https://www.tensorflow.org/install/source#gpu)
-- [Setup deeplearning environment for GPU](https://github.com/lab-semantics/Quick-Configuration/blob/master/configure-deep-learning-environment-for-gpu-machine.md)
+- [Setup deeplearning environment for GPU](https://github.com/menon92/Deep-Learning-Guide/blob/master/configuration/configure-deep-learning-environment-for-gpu-machine.md)
