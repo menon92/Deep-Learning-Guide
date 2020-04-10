@@ -6,7 +6,7 @@
 ## Step 0 - Tensorflow, CUDA, cuDNN Nvidia graphivs deriver version Build Configuration. 
 Check comptable version of these to each other
 
-Check out table : https://www.tensorflow.org/install/source#tested_build_configurations
+Check out table : https://www.tensorflow.org/install/source#gpu
 
 
 ## Step 1 - Remove Old Nvidia Driver
