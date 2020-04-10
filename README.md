@@ -35,9 +35,8 @@
 - [Numpy and Image processing](https://note.nkmk.me/en/python-numpy-image-processing/)
 - [Basic Machine learning (Bangla Tutorials)](https://ml.howtocode.com.bd/)
 - [Basic Deep learning (Bangla Tutorials)](https://dl.howtocode.com.bd/)
-- [Machine Learing Crash Course by Google](https://developers.google.com/machine-learning/crash-course/)
 - [Basic tensor operations (Tensorflow)](https://www.guru99.com/tensor-tensorflow.html)
-- [Symbolic and imperative apis in tensorflow-2-0](https://medium.com/tensorflow/what-are-symbolic-and-imperative-apis-in-tensorflow-2-0-dfccecb01021)
+- [Symbolic and imperative apis in tensorflow-2-0 by François Chollet](https://medium.com/tensorflow/what-are-symbolic-and-imperative-apis-in-tensorflow-2-0-dfccecb01021)
 
 ### 10 - Books 
 - [Deep_Learning_with_Python_by_Chollet](https://github.com/menon92/Deep-Learning-Guide/blob/master/Books/Deep_Learning_with_Python_by_Chollet.pdf)
@@ -47,6 +46,9 @@
 
 ### 11 - Courses
 - [Kaggle Micro Courses](https://github.com/faruk-ahmad/Deep-Learning-Guide/blob/master/courses/kaggle-microcourses.md)
+- [Udacity - "Intro to TensorFlow for Deep Learning"](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+- [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course)
+- [MIT deep learning lecture](http://introtodeeplearning.com/)
 
 ### 12 - GPU configure and troubleshoot
 - [Check CUDA compatibility with linux nvidia driver version](https://docs.nvidia.com/deploy/cuda-compatibility/index.html)
