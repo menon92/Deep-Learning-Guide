@@ -47,3 +47,8 @@
 
 ### 11 - Courses
 - [Kaggle Micro Courses](https://github.com/faruk-ahmad/Deep-Learning-Guide/blob/master/courses/kaggle-microcourses.md)
+
+### 12 - GPU configure and troubleshoot
+- [Check CUDA compatibility with linux nvidia driver version](https://docs.nvidia.com/deploy/cuda-compatibility/index.html)
+- [Tensorflwo vs Python vs cuDNN vs CUDA compatibility](https://www.tensorflow.org/install/source#gpu)
+- [Setup deeplearning environment for GPU](https://github.com/lab-semantics/Quick-Configuration/blob/master/configure-deep-learning-environment-for-gpu-machine.md)
