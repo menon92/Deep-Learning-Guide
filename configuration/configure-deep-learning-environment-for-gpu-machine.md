@@ -21,11 +21,22 @@ Check out nvidia unix driver archrive: https://www.nvidia.com/object/unix.html a
 
 ```bash
 sudo add-apt-repository ppa:graphics-drivers/ppa
+sudo apt update
+```
+Search latest driver supporte by your system
+```bash
+apt-cache search nvidia-driver
+```
+```bash
+nvidia-304 - NVIDIA legacy binary driver - version 304.135
+nvidia-304-updates - Transitional package for nvidia-304
+nvidia-340 - NVIDIA binary driver - version 340.107
+nvidia-361 - Transitional package for nvidia-367
+nvidia-384 - NVIDIA binary driver - version 384.130
 ```
 Execute the below command to install Nvidia graphics driver on your system.
 ```bash
-sudo apt update
-sudo apt install nvidia-390
+sudo apt install nvidia-384
 sudo init 6
 ```
 ## Step 3 - Verify Nvidia Driver
