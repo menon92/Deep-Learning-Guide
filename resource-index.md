@@ -1,26 +1,9 @@
 # A smooth path to Deep Learning
 
-### 1 - Basic python [ Structure + OOP]
- - [Python3 Intro](https://github.com/menon92/Deep-Learning-Guide/tree/master/Python3)
-### 2.1 Configure Deep Learning Environment and Introduction to Anaconda
-   - [Manage-Environments](https://github.com/menon92/Deep-Learning-Guide/blob/master/Anaconda_intro/manage-environments.rst)
-### 2.2 - Introduction to Numpy
-   - [Numpy intro](https://github.com/menon92/Deep-Learning-Guide/blob/master/Numpy_intro/Numpy_Into.ipynb)
-### 3 - Basic Staistical Operation using Python
-   - [Statistics](https://github.com/nuhil/deep-learning-research/blob/master/Data%20Interpretation/Data-Interpretation.ipynb)
-### 4 - Introduction to OpenCV
-   - [OpenCV](https://github.com/menon92/Deep-Learning-Guide/tree/master/OpenCV-Intro)
+### 1 - Introduction to Basic Linux command lines
+   - https://sh.howtocode.com.bd/
 
-### 5 - Indroduction to Deep Learning
-
-- [Deep Learning Intro](https://github.com/menon92/Deep-Learning-Guide/tree/master/DL_intro)
-
-### 6 - Intuition of Gradient Descent algorithm
-
-- [Stochastic Gradient Descent ](https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
-
-
-### 7 - Introduction to google colab
+### 2 - Introduction to google colab
  This is very important. You can use GPU machine to experiment Deep learning 
  algorithm. Which is not possible if you use CPU machine.
 	
@@ -28,8 +11,25 @@
 - [Google Colaboratory Notebook Tutorial with GPU](https://www.youtube.com/watch?v=f1UK8KPt-KU)
 - [A Simpe Neural network with Tensorflow-Keras using Colaboratory](https://www.youtube.com/watch?v=6_upGYUtjdU)
 
-### 8 - Introduction to Basic Linux command lines
-   - https://sh.howtocode.com.bd/
+### 3 - Basic python [ Structure + OOP]
+ - [Python3 Intro](https://github.com/menon92/Deep-Learning-Guide/tree/master/Python3)
+### 4.1 Configure Deep Learning Environment and Introduction to Anaconda
+   - [Manage-Environments](https://github.com/menon92/Deep-Learning-Guide/blob/master/Anaconda_intro/manage-environments.rst)
+### 4.2 - Introduction to Numpy
+   - [Numpy intro](https://github.com/menon92/Deep-Learning-Guide/blob/master/Numpy_intro/Numpy_Into.ipynb)
+### 5 - Basic Staistical Operation using Python
+   - [Statistics](https://github.com/nuhil/deep-learning-research/blob/master/Data%20Interpretation/Data-Interpretation.ipynb)
+### 6 - Introduction to OpenCV
+   - [OpenCV](https://github.com/menon92/Deep-Learning-Guide/tree/master/OpenCV-Intro)
+
+### 7 - Indroduction to Deep Learning
+
+- [Deep Learning Intro](https://github.com/menon92/Deep-Learning-Guide/tree/master/DL_intro)
+
+### 8 - Intuition of Gradient Descent algorithm
+
+- [Stochastic Gradient Descent ](https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
+
 
 ### 9 - Resources 
 - [Numpy and Image processing](https://note.nkmk.me/en/python-numpy-image-processing/)
