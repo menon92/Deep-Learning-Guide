@@ -23,7 +23,7 @@
   - File I/O 
   - `os`, `walk`, `shutil`, `glob`
 - [`Part - 5`](https://github.com/menon92/Deep-Learning-Guide/blob/master/Python3/python3_intro_part_5_%5BOOP%5D.ipynb)
-  - Class & Objet
+  - Class & Object
   - Inheritence
   - Magic Method
 - [`Part - 6`](https://github.com/menon92/Deep-Learning-Guide/blob/master/Python3/python3_intro_part_6.ipynb)
