@@ -20,11 +20,10 @@ checkpoint = torch.load('saved_model.pt', map_location={'cuda:0': 'cpu'})
 ```
 
 ## Conda Problem
-* SSH conda base not working
-```conda: command not found```
 
-Solution: 
-```source .bashrc```
+SSH conda base not working `conda: command not found`
+
+Solution:  `source ~/.bashrc`
 
 ## Miscellaneous Issue and Solve
 
