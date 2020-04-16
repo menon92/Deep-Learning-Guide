@@ -1,5 +1,5 @@
 # Deep-Learning-Guide
-Python, DeepLearning, Numpy, OpenCV, Keras,
+Python, DeepLearning, Numpy, OpenCV, Keras, Tensorflow
 
 ## Week#01
 ### Required Topics
